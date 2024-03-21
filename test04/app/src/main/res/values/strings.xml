@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">test04</string>
+    <string name="play_choose_a_button">Play_choose_a_button</string>
+    <string name="paper">Paper</string>
+    <string name="rock">Rock</string>
+    <string name="scissors">Scissors</string>
+    <string name="wait_player">Wait_player</string>
+    <string name="player">Player</string>
+    <string name="computer">Computer</string>
+    <string name="rock_paper_scissors">Rock_paper_scissors</string>
+    <string name="win">You win!!!</string>
+    <string name="loss">You loss!!!</string>
+    <string name="draw">You draw!!!</string>
+</resources>
